@@ -1,8 +1,8 @@
 <?php
-	$username = "Roman Picisan";
+	$username = "Muhammad Farid Rizki";
 
-		if ($username = "Roman Picisan") 
-			echo "Anda Berhasil Login, Roman";
+		if ($username = "Muhammad Farid Rizki") 
+			echo "Anda Berhasil Login, Farid";
 		else
 			echo "Username Anda Salah";
 
