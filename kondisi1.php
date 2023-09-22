@@ -1,10 +1,11 @@
 <?php
-	$username = "Muhammad Farid Rizki";
+	$username = "Roman Picisan";
 
-		if ($username = "Muhammad Farid Rizki") 
-			echo "Anda Berhasil Login, Farid";
+		if ($username = "Roman Picisan") 
+			echo "Anda Berhasil Login, Roman";
 		else
 			echo "Username Anda Salah";
 
 ?>
+
 
